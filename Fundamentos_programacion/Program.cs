@@ -21,6 +21,7 @@ namespace Fundamentos_programacion
             int x = 0;
             int a = 14;
             int b = 60;
+            int c = 20;
             x = a + b;
             Console.WriteLine(x);
         }
